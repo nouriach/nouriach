@@ -2,7 +2,7 @@
 <h3 align="center">.NET Developer, former Marketing Manager</h3>
 <img align="right" alt="" width="400" src="https://imgs.search.brave.com/Zovq6mYr6tbAnQIWjtgqohoLSKsOII32bHV9BZU7ByA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPSE54Y2pONU4y/RmhhelZpWXpZNWRI/ZGtkamt5ZERBMk9I/bHFiVGMyZUhoMmIy/aDRabXBtWmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vdExRVVh6U09j/Z3I2dy8yMDAuZ2lm.gif">
 
-🔭 Currently working at [xDesign](https://xdesign.com/about-us)
+🔭 Software Engineer @ [xDesign](https://xdesign.com/about-us)
 
 🌱 I’m currently learning [.NET Developer Roadmap by Nick Chapsas](https://roadmap.sh/r?id=65d8624e66cd6d03d2d7efc9)
 
