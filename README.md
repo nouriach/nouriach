@@ -47,10 +47,34 @@ We are [hiring](https://www.xdesign.com/careers/open-roles) 📢 👋
 
 Using the public [Open Brewery DB API](https://www.openbrewerydb.org/) I am going to build out a mature, modern .NET API step-by-step. I plan to incorporate many of the technologies referenced in the roadmap. 
 
-Each step will be written up on Medium with a supporting repository publish here. 😬
+Each step will be written up on Medium with a supporting repository published here. 😬
 
 <details>
   <summary>Progress so far 👇</summary>
+
+  <details>
+    <summary>Build out a .NET 8 Minimal API from scratch | 01 🟢</summary>
+  </details>
+  
+  <details>
+    <summary>Introducing Dependency Injection in a .NET 8 Minimal API | 02 🟠</summary>
+
+  </details>
+  
+  <details>
+    <summary>Refactoring a .NET 8 Minimal API to Use Clean Architecture | 03 🟠</summary>
+
+  </details>
+  
+  <details>
+    <summary>Add Entity Framework Core to a Project | 04 🟠</summary>
+
+  </details>
+  
+  <details>
+    <summary>Refactoring your .NET 8 Minimal API to Use MediatR 🟠</summary>
+
+  </details> 
 </details>
 
 ---
