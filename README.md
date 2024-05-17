@@ -1,27 +1,80 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
+<h1 align="center">Nathan Ouriach 😏 </h1>
 <h3 align="center">.NET Developer, former Marketing Manager</h3>
 
 ---
+### 🔭 Software Engineer @ [xDesign](https://xdesign.com/about-us) 
+##### _October 2023 - Present_
+xDesign is an award-winning agency that helps clients unleash their potential through digital strategy, product design, engineering, cloud, and managed services. See how they have partnered with brands like Tesco Bank, FanDuel, and Yorkshire Building Society.
 
-🔭 Software Engineer @ [xDesign](https://xdesign.com/about-us)
+I'm currently working as a fully remote .NET Engineer. As well as working on client projects I write for our tech publication on Medium: [The Tech Collective](https://medium.com/the-tech-collective). 
 
-🌱 I’m currently learning [.NET Developer Roadmap by Nick Chapsas](https://roadmap.sh/r?id=65d8624e66cd6d03d2d7efc9)
+We are [hiring](https://www.xdesign.com/careers/open-roles) 📢 👋 
 
-📝 I regularly write articles on [https://medium.com/@nouriach17](https://medium.com/@nouriach17)
+
+<details>
+  <summary>Previous experience...</summary>
+  
+  ##### 🏖️ On the Beach
+  ###### _September 2022 - September 2023_
+  ###### On the Beach Group plc is a UK-based travel retailer specialising in short and medium haul ‘Flight + Hotel' holidays to Europe.
+  
+  ##### 😎 DEPT Agency
+  ###### _September 2021 - September 2022_
+  ###### A full-service digital agency employing over 4,000+ digital specialists across 30+ locations on 5 continents.
+
+  ##### 👨‍🏫 Department for Education 
+  ###### _January 2020 - September 2021_
+  ###### The Department for Education is a ministerial department of the Government of the United Kingdom
+  
+  ##### 🔖 CDL 
+  ###### _September 2019 - January 2020_
+  ###### CDL is one of the UK's leading software development houses, employing over 600 people at its campus in Stockport. 
+  
+</details>
 
 ---
 
-# Blog posts
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Part #2: Using Interceptors With Entity Framework Core](https://medium.com/the-tech-collective/part-2-using-interceptors-with-entity-framework-core-805aca49585a?source=rss-2f0794974029------2)
 - [Part #1: Using Interceptors With Entity Framework Core](https://medium.com/the-tech-collective/part-1-using-interceptors-with-entity-framework-core-c377f7ce7223?source=rss-2f0794974029------2)
 - [You Are Probably Working in a Dysfunctional Team](https://medium.com/the-tech-collective/you-are-probably-working-in-a-dysfunctional-team-53e55c081347?source=rss-2f0794974029------2)
 <!-- BLOG-POST-LIST:END -->
 
+--- 
+## 2024 goal
+🌱 My goal for 2024 is to work through the [.NET Developer Roadmap by Nick Chapsas](https://roadmap.sh/r?id=65d8624e66cd6d03d2d7efc9)
+
+Using the public [Open Brewery DB API](https://www.openbrewerydb.org/) I am going to build out a mature, modern .NET API step-by-step. I plan to incorporate many of the technologies referenced in the roadmap. 
+
+Each step will be written up on Medium with a supporting repository publish here. 😬
+
+<details>
+  <summary>Progress so far 👇</summary>
+</details>
+
+---
+<details>
+    <summary>
+        <h3 align="left">Languages and Tools:</h3>
+    </summary>
+    <br/>
+    <p align="left">
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
+        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
+        <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" /> </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> </a>
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> </a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+    </p>
+
+</details>
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@nouriach17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nouriach17" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
