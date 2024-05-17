@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: .github/workflows/blog-post-workflows.yml@main
+      - uses: nouriach/blog-post-workflows.yml@main
         with:
           max_post_count: "5"
           feed_list: "https://medium.com/feed/@nouriach17"
