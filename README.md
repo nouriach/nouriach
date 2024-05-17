@@ -4,7 +4,7 @@
 ---
 ### 🔭 Software Engineer @ [xDesign](https://xdesign.com/about-us) 
 ##### _October 2023 - Present_
-xDesign is an award-winning agency that helps clients unleash their potential through digital strategy, product design, engineering, cloud, and managed services. See how they have partnered with brands like Tesco Bank, FanDuel, and Yorkshire Building Society.
+xDesign is an award-winning agency that helps clients unleash their potential through digital strategy, product design, engineering, cloud, and managed services. They have partnered with brands like Tesco Bank, FanDuel, and Yorkshire Building Society.
 
 I'm currently working as a fully remote .NET Engineer. As well as working on client projects I write for our tech publication on Medium: [The Tech Collective](https://medium.com/the-tech-collective). 
 
