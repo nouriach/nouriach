@@ -36,6 +36,7 @@ We are [hiring](https://www.xdesign.com/careers/open-roles) 📢 👋
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A 5-Minute Introduction to Dependency Injection in .NET](https://medium.com/@nouriach17/a-5-minute-introduction-to-dependency-injection-in-net-4f4957464d8c?source=rss-2f0794974029------2)
 - [Part #2: Using Interceptors With Entity Framework Core](https://medium.com/the-tech-collective/part-2-using-interceptors-with-entity-framework-core-805aca49585a?source=rss-2f0794974029------2)
 - [Part #1: Using Interceptors With Entity Framework Core](https://medium.com/the-tech-collective/part-1-using-interceptors-with-entity-framework-core-c377f7ce7223?source=rss-2f0794974029------2)
 - [You Are Probably Working in a Dysfunctional Team](https://medium.com/the-tech-collective/you-are-probably-working-in-a-dysfunctional-team-53e55c081347?source=rss-2f0794974029------2)
