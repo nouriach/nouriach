@@ -101,6 +101,7 @@ Each step will be written up on Medium with a supporting repository published he
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/nouriach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouriach" height="30" width="40" /></a>
 <a href="https://medium.com/@nouriach17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nouriach17" height="30" width="40" /></a>
 </p>
 
