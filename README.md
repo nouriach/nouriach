@@ -2,11 +2,15 @@
 <h3 align="center">.NET Developer, former Marketing Manager</h3>
 
 ---
-### 🔭 Software Engineer @ [xDesign](https://xdesign.com/about-us) 
+### 🔭 Software Engineer @ [CreateFuture](https://createfuture.com/about/) 
 ##### _October 2023 - Present_
-xDesign is an award-winning agency that helps clients unleash their potential through digital strategy, product design, engineering, cloud, and managed services. They have partnered with brands like Tesco Bank, FanDuel, and Yorkshire Building Society.
+The pitch 👇
 
-I'm currently working as a fully remote .NET Engineer. As well as working on client projects I write for our tech publication on Medium: [The Tech Collective](https://medium.com/the-tech-collective). 
+_At CreateFuture we don’t believe in templated solutions or overhyped promises.
+We believe in the transformational power of digital. Rock-solid outcomes that take hard work, commitment and ingenuity.
+With a team of over 500 experts (and growing fast) and 5+ UK locations, we know what it takes to tackle challenges and create solutions. As with our past clients, we’re determined to get you exactly what you need._
+
+I'm currently working as a fully remote Sofware Engineer focussing on .NET. As well as working on client projects I write for our tech publication on Medium: [The Tech Collective](https://medium.com/the-tech-collective). 
 
 We are [hiring](https://www.xdesign.com/careers/open-roles) 📢 👋 
 
