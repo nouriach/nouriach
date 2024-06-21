@@ -12,7 +12,7 @@ With a team of over 500 experts (and growing fast) and 5+ UK locations, we know 
 
 I'm currently working as a fully remote Sofware Engineer focussing on .NET. As well as working on client projects I write for our tech publication on Medium: [The Tech Collective](https://medium.com/the-tech-collective). 
 
-We are [hiring](https://www.xdesign.com/careers/open-roles) 📢 👋 
+We are [hiring](https://grnh.se/775248c2teu) 📢 👋 
 
 
 <details>
