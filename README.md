@@ -1,6 +1,3 @@
-
-![hero](https://github.com/user-attachments/assets/30aceb8a-2849-4d52-8037-bef388433a77)
-
 <h1 align="center">Nathan Ouriach 😏 </h1>
 <h3 align="center">.NET Developer, former Marketing Manager</h3>
 
@@ -39,7 +36,7 @@ We are [hiring](https://grnh.se/775248c2teu) 📢 👋
   
 </details>
 
----
+<img src="https://github.com/user-attachments/assets/30aceb8a-2849-4d52-8037-bef388433a77" alt="hero" height="200" width="1200">
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
