@@ -40,11 +40,11 @@ We are [hiring](https://grnh.se/775248c2teu) 📢 👋
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part #1: Using DynamoDB Locally with Docker](https://medium.com/the-tech-collective/part-1-using-dynamodb-locally-with-docker-66ac7062639b?source=rss-2f0794974029------2)
 - [EF Core: The Main Things You Need To Know About Migrations](https://medium.com/the-tech-collective/ef-core-the-main-things-you-need-to-know-about-migrations-ae3c1a8e7705?source=rss-2f0794974029------2)
 - [Loading Modes in Entity Framework Core](https://medium.com/the-tech-collective/loading-modes-in-entity-framework-core-ae1d7fd85625?source=rss-2f0794974029------2)
 - [Part #3: Using Interceptors With Entity Framework Core](https://medium.com/the-tech-collective/part-3-using-interceptors-with-entity-framework-core-0475f49c8947?source=rss-2f0794974029------2)
 - [A 5-Minute Introduction to Dependency Injection in .NET](https://medium.com/@nouriach17/a-5-minute-introduction-to-dependency-injection-in-net-4f4957464d8c?source=rss-2f0794974029------2)
-- [Part #2: Using Interceptors With Entity Framework Core](https://medium.com/the-tech-collective/part-2-using-interceptors-with-entity-framework-core-805aca49585a?source=rss-2f0794974029------2)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
