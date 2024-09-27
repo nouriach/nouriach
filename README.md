@@ -4,37 +4,20 @@
 ---
 ### 🔭 Software Engineer @ [CreateFuture](https://createfuture.com/about/) 
 ##### _October 2023 - Present_
-The pitch 👇
 
-_At CreateFuture we don’t believe in templated solutions or overhyped promises.
+##### The pitch 👇
+
+> _At CreateFuture we don’t believe in templated solutions or overhyped promises.
 We believe in the transformational power of digital. Rock-solid outcomes that take hard work, commitment and ingenuity.
 With a team of over 500 experts (and growing fast) and 5+ UK locations, we know what it takes to tackle challenges and create solutions. As with our past clients, we’re determined to get you exactly what you need._
 
-I'm currently working as a fully remote Sofware Engineer focussing on .NET. As well as working on client projects I write for our tech publication on Medium: [The Tech Collective](https://medium.com/the-tech-collective). 
+##### What am I working on right now? 👨‍💻
 
-We are [hiring](https://grnh.se/775248c2teu) 📢 👋 
+I'm working as a Sofware Engineer on a large project for our client [Tombola](https://www.tombola.co.uk/). Alongside 2 other Software Engineers from CreateFuture, I am in an embedded team building out microservices to help Tombola decouple its architecture. All our services are .NET Minimal APIs and aim to follow Clean Architecture principles. 
 
+As well as working on client projects I write for our tech publication on Medium: [The Tech Collective](https://medium.com/the-tech-collective). 
 
-<details>
-  <summary>Previous experience...</summary>
-  
-  ##### 🏖️ On the Beach
-  ###### _September 2022 - September 2023_
-  ###### On the Beach Group plc is a UK-based travel retailer specialising in short and medium haul ‘Flight + Hotel' holidays to Europe.
-  
-  ##### 😎 DEPT Agency
-  ###### _September 2021 - September 2022_
-  ###### A full-service digital agency employing over 4,000+ digital specialists across 30+ locations on 5 continents.
-
-  ##### 👨‍🏫 Department for Education 
-  ###### _January 2020 - September 2021_
-  ###### The Department for Education is a ministerial department of the Government of the United Kingdom
-  
-  ##### 🔖 CDL 
-  ###### _September 2019 - January 2020_
-  ###### CDL is one of the UK's leading software development houses, employing over 600 people at its campus in Stockport. 
-  
-</details>
+We are [hiring](https://grnh.se/775248c2teu) 📢 👋  
 
 <img src="https://github.com/user-attachments/assets/30aceb8a-2849-4d52-8037-bef388433a77" alt="hero" height="200" width="1200">
 
@@ -48,42 +31,52 @@ We are [hiring](https://grnh.se/775248c2teu) 📢 👋
 <!-- BLOG-POST-LIST:END -->
 
 --- 
-## 2024 goal
-🌱 My goal for 2024 is to work through the [.NET Developer Roadmap by Nick Chapsas](https://roadmap.sh/r?id=65d8624e66cd6d03d2d7efc9)
+## Short Term Goal
+🌱 My goal for the next few months is to work through the [.NET Developer Roadmap by Nick Chapsas](https://roadmap.sh/r?id=65d8624e66cd6d03d2d7efc9)
 
 Using the public [Open Brewery DB API](https://www.openbrewerydb.org/) I am going to build out a mature, modern .NET API step-by-step. I plan to incorporate many of the technologies referenced in the roadmap. 
 
 Each step will be written up on Medium with a supporting repository published here. 😬
 
-<details>
-  <summary>Progress so far 👇</summary>
+<div align="center">  
+======== 🟢 Published -- 🟠 Draft Complete -- 🔴 Not Started ========
+</div>
 
-  <details>
-    <summary>Build out a .NET 8 Minimal API from scratch | 01 🟢</summary>
-  </details>
-  
-  <details>
-    <summary>Introducing Dependency Injection in a .NET 8 Minimal API | 02 🟠</summary>
 
-  </details>
-  
-  <details>
-    <summary>Refactoring a .NET 8 Minimal API to Use Clean Architecture | 03 🟠</summary>
+Progress so far 👇
 
-  </details>
-  
-  <details>
-    <summary>Add Entity Framework Core to a Project | 04 🟠</summary>
-
-  </details>
-  
-  <details>
-    <summary>Refactoring your .NET 8 Minimal API to Use MediatR 🟠</summary>
-
-  </details> 
-</details>
+  * [01] Build out a .NET 8 Minimal API from scratch 🟠
+  * [02] Introducing Dependency Injection in a .NET 8 Minimal API 🟠
+  * [03] Refactoring a .NET 8 Minimal API to Use Clean Architecture 🟠
+  * [04] Add Entity Framework Core to a Project 🟠
+  * [05] Refactoring your .NET 8 Minimal API to Use MediatR 🟠
+  * [06] A Clean Approach to Versioning in .NET Minimal APIs 🟠
+  * [07] Introduce AutoMapper into Your .NET Minimal APIs 🔴
+  * [08] Improve Your .NET Minimal APIs With Serilog  🔴
+  * [09] How to Run Your .NET Minimal API In Docker 🔴
 
 ---
+
+## Previous Experience
+
+On the Beach 🏖️
+  * _September 2022 - September 2023_
+  * On the Beach Group plc is a UK-based travel retailer specialising in short and medium haul ‘Flight + Hotel' holidays to Europe.
+
+DEPT Agency 😎
+  * _September 2021 - September 2022_
+  * A full-service digital agency employing over 4,000+ digital specialists across 30+ locations on 5 continents.
+
+Department for Education 👨‍🏫 
+  * _January 2020 - September 2021_
+  * The Department for Education is a ministerial department of the Government of the United Kingdom
+  
+CDL 🔖 
+  * _September 2019 - January 2020_
+  * CDL is one of the UK's leading software development houses, employing over 600 people at its campus in Stockport.
+    
+---
+
 <details>
     <summary>
         <h3 align="left">Languages and Tools:</h3>
