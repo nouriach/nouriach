@@ -51,7 +51,7 @@ Progress so far 👇
   * [04] Add Entity Framework Core to a Project 🟠
   * [05] Refactoring your .NET 8 Minimal API to Use MediatR 🟠
   * [06] A Clean Approach to Versioning in .NET Minimal APIs 🟠
-  * [07] Introduce AutoMapper into Your .NET Minimal APIs 🔴
+  * [07] Introduce AutoMapper into Your .NET Minimal APIs 🟠
   * [08] Improve Your .NET Minimal APIs With Serilog  🔴
   * [09] How to Run Your .NET Minimal API In Docker 🔴
 
