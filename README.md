@@ -23,11 +23,11 @@ We are [hiring](https://grnh.se/775248c2teu) 📢 👋
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic CORS Configuration in .NET Using a Custom Configuration Provider](https://medium.com/the-tech-collective/dynamic-cors-configuration-in-net-using-a-custom-configuration-provider-707adbbc3f94?source=rss-2f0794974029------2)
 - [Dynamic CORS Configuration in .NET Using IHostedService](https://medium.com/the-tech-collective/dynamic-cors-configuration-in-net-using-ihostedservice-48af93d49711?source=rss-2f0794974029------2)
 - [Part #2: Using DynamoDB Locally with Docker](https://medium.com/the-tech-collective/part-2-using-dynamodb-locally-with-docker-db210bd8d124?source=rss-2f0794974029------2)
 - [Part #1: Using DynamoDB Locally with Docker](https://medium.com/the-tech-collective/part-1-using-dynamodb-locally-with-docker-66ac7062639b?source=rss-2f0794974029------2)
 - [EF Core: The Main Things You Need To Know About Migrations](https://medium.com/the-tech-collective/ef-core-the-main-things-you-need-to-know-about-migrations-ae3c1a8e7705?source=rss-2f0794974029------2)
-- [Loading Modes in Entity Framework Core](https://medium.com/the-tech-collective/loading-modes-in-entity-framework-core-ae1d7fd85625?source=rss-2f0794974029------2)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
