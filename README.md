@@ -1,5 +1,5 @@
 <h1 align="center">Nathan Ouriach 😏 </h1>
-<h3 align="center">.NET Developer, former Marketing Manager</h3>
+<h3 align="center">.NET Developer based in Northampton</h3>
 
 ---
 ### 🔭 Software Engineer @ [CreateFuture](https://createfuture.com/about/) 
@@ -31,31 +31,14 @@ We are [hiring](https://grnh.se/775248c2teu) 📢 👋
 <!-- BLOG-POST-LIST:END -->
 
 --- 
-## Short Term Goal
-🌱 My goal for the next few months is to work through the [.NET Developer Roadmap by Nick Chapsas](https://roadmap.sh/r?id=65d8624e66cd6d03d2d7efc9)
 
-Using the public [Open Brewery DB API](https://www.openbrewerydb.org/) I am going to build out a mature, modern .NET API step-by-step. I plan to incorporate many of the technologies referenced in the roadmap. 
+## Latest Playgrounds 
 
-Each step will be written up on Medium with a supporting repository published here. 😬
-
-<div align="center">  
-======== 🟢 Published -- 🟠 Draft Complete -- 🔴 Not Started ========
-</div>
-
-
-Progress so far 👇
-
-  * [01] Build out a .NET 8 Minimal API from scratch 🟠
-  * [02] Introducing Dependency Injection in a .NET 8 Minimal API 🟠
-  * [03] Refactoring a .NET 8 Minimal API to Use Clean Architecture 🟠
-  * [04] Add Entity Framework Core to a Project 🟠
-  * [05] Refactoring your .NET 8 Minimal API to Use MediatR 🟠
-  * [06] A Clean Approach to Versioning in .NET Minimal APIs 🟠
-  * [07] Introduce AutoMapper into Your .NET Minimal APIs 🟠
-  * [08] Improve Your .NET Minimal APIs With Serilog  🔴
-  * [09] How to Run Your .NET Minimal API In Docker 🔴
-
----
+- [CleanArchitecture.Playground](https://github.com/nouriach/clean-architecture-playground/tree/main)
+- [ConfigurationProvider.Playground](https://github.com/nouriach/ConfigurationProvider.Playground)
+- [DynamoDB.Playground](https://github.com/nouriach/dynamodb-playground/tree/main)
+- [IHostedServices.Playground](https://github.com/nouriach/IHostedServices.Playground)
+- [Lambda.Playground](https://github.com/nouriach/Lambda.Playground)
 
 ## Previous Experience
 
