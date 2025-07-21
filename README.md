@@ -13,7 +13,9 @@ With a team of over 500 experts (and growing fast) and 5+ UK locations, we know 
 
 ##### What am I working on right now? 👨‍💻
 
-I'm working as a Sofware Engineer on a large project for our client [Tombola](https://www.tombola.co.uk/). Alongside 2 other Software Engineers from CreateFuture, I am in an embedded team building out microservices to help Tombola decouple its architecture. All our services are .NET Minimal APIs and aim to follow Clean Architecture principles. 
+I'm working as a Sofware Engineer on a large project for our client [Tombola](https://www.tombola.co.uk/). I am in an embedded team building out microservices to help Tombola decouple its architecture. All our services are .NET Minimal APIs and aim to follow Clean Architecture principles. 
+
+Read more about the project: [tombola and Sisal join forces to enhance online bingo offering in Italy](https://www.flutter.com/news-and-insights/press-releases/tombola-and-sisal-join-forces-to-enhance-online-bingo-offering-in-italy/)
 
 As well as working on client projects I write for our tech publication on Medium: [The Tech Collective](https://medium.com/the-tech-collective). 
 
