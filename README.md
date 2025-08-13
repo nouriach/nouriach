@@ -1,4 +1,4 @@
-<h1 align="center">Nathan Ouriach 😏 </h1>
+<h1 align="center">Nathan Ouriach</h1>
 <h3 align="center">.NET Developer based in Northampton</h3>
 
 ---
